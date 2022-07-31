@@ -1,0 +1,9 @@
+Version: 1.0
+Server:
+  TimeoutIdle: 20
+  ReadTimeout: 5s
+  WriteTimeout: 10s
+  IdleTimeout: 120s
+  ShutdownTimeout: 20s
+  APIHost: 0.0.0.0:8000
+  DebugHost: 0.0.0.0:7000
